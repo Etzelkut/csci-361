@@ -1,4 +1,8 @@
 # csci-361
+
+Authors: Ermek, Dias, Aldiyar, Agakhan, Adilet, Yernar
+
+\\
 Commands to use 
 открываете терминал пишите это
 git clone _______ тут ссылка на брнэч наш 
